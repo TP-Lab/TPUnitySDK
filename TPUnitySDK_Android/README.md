@@ -73,6 +73,8 @@ Other apis are similar to authLogin。
 
 - tpSDK.getCurrencyBalance(balanceParam); get account token balance
 
+- tpSDK.sign(signParam);// sign message
+
 ## AndroidU3dTest.zip is a unity sample project, you can get more details
 
 ## TokenPocket Wallet Protocol
