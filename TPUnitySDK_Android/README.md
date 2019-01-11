@@ -1,6 +1,8 @@
 # TPUnitySDK for Android
 TokenPocket Unity SDK for Android, U3D developer can use this SDK to pull up TokenPocket do some actions, such as login, token transfer, push transaction etc
 
+Notice: Only version 0.6.5 or higher support this SDK. Now is released to GooglePlay and official website
+
 ## How to use
 
 ### Copy files
