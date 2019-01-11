@@ -33,6 +33,11 @@ namespace TP
             tpSDK.CallStatic("pushTransaction", actions);
         }
 
+        public void sign(string message)
+        {
+            tpSDK.CallStatic("sign", message);
+        }
+
         public void getAccount(string account)
         {
             tpSDK.CallStatic("getAccountInfo", account);
@@ -52,7 +57,7 @@ namespace TP
         {
             tpSDK.CallStatic("showUnityMsg", msg);
         }
-
+        
      
     }
 }
