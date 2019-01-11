@@ -1,6 +1,8 @@
 # TPUnitySDK for Android
 U3D开发者可以使用该SDK拉起TokenPocket钱包执行授权登陆，转账，pushTransaction, 获取tableRows, 获取代币余额等操作。
 
+注意：V0.6.5及以上的TokenPocket 支持该SDK，现已发布到官网和GooglePlay
+
 ## 使用
 
 ### 拷贝相关文件
@@ -81,4 +83,3 @@ public class AndroidU3dTest : MonoBehaviour
 ## 协议文档
 https://github.com/TP-Lab/tp-wallet-sdk
 
-## V0.6.5及以上的TokenPocket 支持该SDK，现已发布到官网和GooglePlay
